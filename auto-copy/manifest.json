@@ -1,0 +1,11 @@
+{
+    "id": "auto-copy",
+    "name": "Auto Copy", 
+    "version": "1.0.1",
+    "minAppVersion": "0.15.0",
+    "description": "Automatically copies selected text to clipboard with visual feedback",
+    "author": "Solontsov DV",
+    "authorUrl": "",
+    "isDesktopOnly": false,
+    "BTC donate": "bc1qvgs8arq3z4r93gmnsrwv65tdy3lzs37pz32atk"
+}
