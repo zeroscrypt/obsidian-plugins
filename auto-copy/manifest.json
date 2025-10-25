@@ -5,7 +5,7 @@
     "minAppVersion": "0.15.0",
     "description": "Automatically copies selected text to clipboard with visual feedback",
     "author": "Solontsov DV",
-    "authorUrl": "",
+    "authorUrl": "https://github.com/zeroscrypt",
     "isDesktopOnly": false,
     "BTC donate": "bc1qvgs8arq3z4r93gmnsrwv65tdy3lzs37pz32atk"
 }
